@@ -7,3 +7,9 @@ These two PDFs record my Linux learning process which can be divided into system
 Most of the content is Chinese, but truly proves my Linux learning efforts and fruits.
 
 I love C/C++ & Linux !!! 
+
+![image](https://github.com/XuanWenX/Linux-Ubuntu-Learning-Process/blob/main/Linux1.jpg)
+
+![image](https://github.com/XuanWenX/Linux-Ubuntu-Learning-Process/blob/main/Linux2.jpg)
+
+![image](https://github.com/XuanWenX/Linux-Ubuntu-Learning-Process/blob/main/Linux3.jpg)
